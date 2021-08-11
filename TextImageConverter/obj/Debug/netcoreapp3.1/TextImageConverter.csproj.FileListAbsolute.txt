@@ -1,0 +1,15 @@
+C:\Users\Nick\source\repos\TextImageConverter\TextImageConverter\bin\Debug\netcoreapp3.1\TextImageConverter.exe
+C:\Users\Nick\source\repos\TextImageConverter\TextImageConverter\bin\Debug\netcoreapp3.1\TextImageConverter.deps.json
+C:\Users\Nick\source\repos\TextImageConverter\TextImageConverter\bin\Debug\netcoreapp3.1\TextImageConverter.runtimeconfig.json
+C:\Users\Nick\source\repos\TextImageConverter\TextImageConverter\bin\Debug\netcoreapp3.1\TextImageConverter.runtimeconfig.dev.json
+C:\Users\Nick\source\repos\TextImageConverter\TextImageConverter\bin\Debug\netcoreapp3.1\TextImageConverter.dll
+C:\Users\Nick\source\repos\TextImageConverter\TextImageConverter\bin\Debug\netcoreapp3.1\TextImageConverter.pdb
+C:\Users\Nick\source\repos\TextImageConverter\TextImageConverter\obj\Debug\netcoreapp3.1\TextImageConverter.csprojAssemblyReference.cache
+C:\Users\Nick\source\repos\TextImageConverter\TextImageConverter\obj\Debug\netcoreapp3.1\TextImageConverter.Form1.resources
+C:\Users\Nick\source\repos\TextImageConverter\TextImageConverter\obj\Debug\netcoreapp3.1\TextImageConverter.csproj.GenerateResource.cache
+C:\Users\Nick\source\repos\TextImageConverter\TextImageConverter\obj\Debug\netcoreapp3.1\TextImageConverter.AssemblyInfoInputs.cache
+C:\Users\Nick\source\repos\TextImageConverter\TextImageConverter\obj\Debug\netcoreapp3.1\TextImageConverter.AssemblyInfo.cs
+C:\Users\Nick\source\repos\TextImageConverter\TextImageConverter\obj\Debug\netcoreapp3.1\TextImageConverter.csproj.CoreCompileInputs.cache
+C:\Users\Nick\source\repos\TextImageConverter\TextImageConverter\obj\Debug\netcoreapp3.1\TextImageConverter.dll
+C:\Users\Nick\source\repos\TextImageConverter\TextImageConverter\obj\Debug\netcoreapp3.1\TextImageConverter.pdb
+C:\Users\Nick\source\repos\TextImageConverter\TextImageConverter\obj\Debug\netcoreapp3.1\TextImageConverter.genruntimeconfig.cache
